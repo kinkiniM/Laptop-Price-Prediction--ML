@@ -63,8 +63,4 @@ Here are some key questions we aim to explore with the model:
 5. **What are the limitations and challenges in predicting laptop prices accurately?**
 6. **How does the model perform when predicting the prices of newly released laptops not present in the training dataset?**
 
-## Getting Started
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/laptop-price-prediction.git
